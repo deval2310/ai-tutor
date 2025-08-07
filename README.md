@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Tutor & Course Generator
 
 ![alt text](image.png)
@@ -49,9 +48,3 @@ If you would like to contribute to the project, please follow these steps:
     git push origin feature-branch
     ```
 5. Create a pull request.
-
-## License
-This project is licensed under the MIT License.
-=======
-# ai-tutor
->>>>>>> 8d5a3a8fc84899b0dbb49e7de8f694a7346968c6
